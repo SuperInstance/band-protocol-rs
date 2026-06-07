@@ -2,10 +2,8 @@
 name = "band-protocol-rs"
 version = "0.1.0"
 edition = "2021"
-description = "Wire protocol for inter-agent communication in a musical ensemble"
+description = "MIDI+t-minus wire protocol for Self-Improving Band"
 license = "MIT"
 repository = "https://github.com/SuperInstance/band-protocol-rs"
-keywords = ["music", "midi", "protocol", "agent", "band"]
-categories = ["multimedia::audio", "encoding"]
-
-[dependencies]
+keywords = ["midi", "protocol", "music", "wire", "band"]
+categories = ["multimedia::audio", "network-programming"]
